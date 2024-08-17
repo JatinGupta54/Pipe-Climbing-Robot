@@ -53,10 +53,3 @@ Where:
 ## Electronics and Programming
 - Arduino Nano (ATmega328p)
 - ULN2003AN for driving solenoid valves
-
-## Project Video
-[Insert your project video here]
-
-To insert your project working video:
-1. Upload your video to a platform like YouTube or Vimeo
-2. Replace the "[Insert your project video here]" line with:
